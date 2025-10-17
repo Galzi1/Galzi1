@@ -1,9 +1,7 @@
-- 👋 Hi, I’m @Galzi1
-- Linkedin: https://www.linkedin.com/in/galziv/
+Experienced Software Engineer with a proven record in development and management, bridging tech and business. I’ve led projects from concept to delivery, leveraging my background in technical product management, integrations, and UX to build solutions that work.
 
-- I am a Software Development Team Lead and Software Engineer with 5+ years of experience in the IDF - developing software products and systems and leading a team of 3 software engineers.
-I am a fast learner, multi-disciplinary and determined with experience in some of the most challenging scenarios and environments.
-Bachelor of Science (B.Sc) in Computer Science from Bar-Ilan University.
-Master of Science (M.Sc) in Technology and Information Systems Management (focused on Data Science) at Tel-Aviv University.
-Has experience in software engineering, software design, requirements assessment and user interfaces planning.
-Highly skilled in C# (both server and client) and Python. Also skilled in Javascript (with React.JS), C++ and Java. 
+I’m hands-on with modern tech stacks and Agile methodologies and passionate about using data-driven approaches to solve problems. My leadership style focuses on collaboration and empowerment, ensuring teams thrive and deliver results.
+
+Beyond work, I’m a guitarist and music enthusiast. In the past, I combined my passion for music and community by volunteering as a guitarist at charity events, blending creativity with a commitment to giving back.
+
+Always eager to learn, lead, and make an impact.
