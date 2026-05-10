@@ -1,12 +1,14 @@
-**Experienced Software Engineer** with a proven record in building scalable solutions (Salesforce / Own).
+**Software Engineer by trade**, now leading the transition to the next era of development. After shipping features for petabyte-scale platforms at Salesforce and Own, I am the **AI R&D Transformation Lead at [Commit AI](https://www.commit-ai.io/)**. I focus on rethinking the software development lifecycle through AI-native engineering, moving from manual implementation to agentic delegation within a structured and scalable Agentic SDLC.
 
-I’ve spent my career leading projects from concept to delivery, focusing on backend architecture and seamless integrations. While my foundation is in core engineering, I’ve become increasingly focused on how **AI-powered development tools** are fundamentally shifting the SDLC.
+At [Commit AI](https://www.commit-ai.io/), I guide organizations through the journey from Agentic Augmentation to Agentic Automation, where AI agents execute defined tasks across the lifecycle.
 
-**What I’m currently obsessed with:**
-- **AI Tooling & Optimization:** Moving beyond basic usage to treat tools like Cursor and Claude Code as core components of the engineering stack.
-- **Team-Scale AI:** Exploring how teams can move from individual "AI hacks" to a unified, AI-native workflow.
-- **Knowledge Sharing:** I’m a big believer in building "playbooks" for new tech—turning complex releases into repeatable, practical workflows for other engineers.
+Current focus areas:
+- AI-Native Engineering: Moving teams beyond basic completion toward treating agents like Cursor and Claude Code as core stack components. I map the path to full agentic delegation, ensuring the transition is driven by technical logic rather than hype.
+- Scaling Transformation: Helping organizations move from fragmented AI usage to a unified model. This includes defining KPIs for AI-driven productivity, conducting R&D assessments, and evaluating tradeoffs between LLM providers to deliver measurable business impact.
+- Technical Enablement: Translating AI capabilities into grounded workflows for senior engineers. I build the workshops and playbooks that turn technical releases into repeatable practices that teams can actually ship with.
 
-Beyond the IDE, I’m a guitarist and music enthusiast. I find that whether I'm layering tracks or refactoring a service, the best results come from a mix of technical discipline and creative problem-solving.
+To maintain credibility, I keep a strong hands-on focus. By developing tools like github-pr-kb and custom AI-driven CLIs, I test the limits of agentic capability in real-world repositories. This practitioner-first approach ensures my strategies are rooted in the reality of the terminal.
 
-Always looking to connect with engineers and leaders who are rethinking how we build software in the age of AI.
+My foundation includes a B.Sc. in Computer Science and an M.Sc. in Big Data. This background, combined with years of managing distributed systems at Cato Networks and the Ministry of Defense, allows me to evaluate AI performance in environments where reliability is non-negotiable.
+
+If you are building AI-native teams or rethinking the SDLC through agentic workflows, I would love to exchange insights on the tradeoffs of this new frontier.
